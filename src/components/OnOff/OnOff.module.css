@@ -1,0 +1,11 @@
+
+.toggle{
+
+}
+
+.toggle span div{
+    border-radius: 50%;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+}
