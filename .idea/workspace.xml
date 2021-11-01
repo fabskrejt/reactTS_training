@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e6f83-3443-445d-888a-746ce447a375" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Accordion/Accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,8 @@
       <workItem from="1634994023432" duration="3180000" />
       <workItem from="1635756182955" duration="13885000" />
       <workItem from="1635796749705" duration="139000" />
-      <workItem from="1635797196688" duration="1666000" />
+      <workItem from="1635797196688" duration="2947000" />
+      <workItem from="1635801612431" duration="942000" />
     </task>
     <servers />
   </component>
