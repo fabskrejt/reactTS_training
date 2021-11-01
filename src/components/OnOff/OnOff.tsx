@@ -1,11 +1,11 @@
 import React, {useState} from "react";
 /*import pStyle from "./OnOff.module.css"*/
 
-type OnOffPropsType = {
+/*type OnOffPropsType = {
     on: boolean
-}
+}*/
 
-function OnOff (props: OnOffPropsType) {
+function OnOff () {
 
 
      let [on,setState] = useState(false)
