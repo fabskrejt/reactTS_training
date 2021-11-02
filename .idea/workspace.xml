@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e6f83-3443-445d-888a-746ce447a375" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UncontrolledOnOff/UncontrolledOnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/OnOff/OnOff.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OnOff/OnOff.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/OnOff" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
@@ -41,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/OnOff" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
@@ -67,7 +68,9 @@
       <workItem from="1635756182955" duration="13885000" />
       <workItem from="1635796749705" duration="139000" />
       <workItem from="1635797196688" duration="2947000" />
-      <workItem from="1635801612431" duration="942000" />
+      <workItem from="1635801612431" duration="1199000" />
+      <workItem from="1635841292672" duration="28000" />
+      <workItem from="1635881348506" duration="2547000" />
     </task>
     <servers />
   </component>
