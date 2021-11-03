@@ -11,6 +11,12 @@ export default {
 
 const Template: Story<ComponentProps<typeof Rating>> = (args) => <Rating {...args} />
 
+export const Rating0= Template.bind({});
+Rating0.args = {
+    value: 0,
+};
+
+
 export const Rating1= Template.bind({});
 Rating1.args = {
     value: 1,
@@ -36,10 +42,8 @@ Rating5.args = {
 };
 
 
-
-/*
-export const ModeChanging = () => {
-    const [on, SetOn] = useState(true)
-    return <OnOff onClick={SetOn} on={on}/>
+export const RatingChanging = () => {
+    const [value, SetValue] = useState<RatingValueType>(3)
+    return <Rating onClick={SetValue} value={value}/>
 }
-*/
+
