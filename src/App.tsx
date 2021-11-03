@@ -1,11 +1,11 @@
 import React, {useState} from 'react';
 import './App.css';
-import Accordion from "./components/Accordion/Accordion";
 import {Rating, RatingPropsType, RatingValueType} from "./components/Rating/Rating";
 import UncontrolledAccordion from "./components/UncontrolledAccordion/UncontrolledAccordion";
 import {UncontrolledRating} from "./components/UncontrolledRating/UncontrolledRating";
 import {UncontrolledOnOff} from "./components/UncontrolledOnOff/UncontrolledOnOff";
 import {OnOff} from "./components/OnOff/OnOff";
+import {Accordion} from "./components/Accordion/Accordion";
 
 function App() {
     const [ratingValue, setRatingValue] = useState<RatingValueType>(0)

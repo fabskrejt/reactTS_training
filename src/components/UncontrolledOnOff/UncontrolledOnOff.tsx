@@ -10,7 +10,7 @@ export function UncontrolledOnOff () {
 
      let [on,setState] = useState(false)
 
-const onStyle = {
+ const onStyle = {
     width: '50px',
     height: '20px',
     display: 'inline-block',
@@ -39,7 +39,7 @@ const onStyle = {
         <div >
             <button style={onStyle} onClick={()=>{setState(true)}}>On</button>
             <button style={offStyle} onClick={()=>{setState(false)}}>Off</button>
-            <div style={indicatorStyle}></div>
+            <div style={indicatorStyle}/>
         </div>
     )
 }
